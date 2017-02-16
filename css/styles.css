@@ -1,0 +1,8 @@
+.tiger, .cougar, .panda {
+  display: none;
+}
+
+img {
+  height: 300px;
+  width: 400px;
+}
